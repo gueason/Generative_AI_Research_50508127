@@ -1,0 +1,13 @@
+# Sensitive or local research data
+raw_data/
+identifiable_data/
+consent_forms/
+*.env
+*.key
+
+# Generated/local files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
