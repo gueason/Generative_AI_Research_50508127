@@ -1,12 +1,8 @@
-# Qualitative insights template
+# Interview notes
 
-## Theme
+## Main idea
 
-## Supporting de-identified evidence
+## Example
 
-## Contradictory evidence
-
-## Interpretation
-
-## Researcher reflection
+## Comments
 

@@ -1,4 +1,4 @@
 # Final reports
 
-Approved final reports will be stored here after review.
+The final report will be stored here.
 
