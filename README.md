@@ -4,6 +4,8 @@ Student ID: 50508127
 
 This repository is for a class activity about organising research files with GitHub.
 
+Last reviewed: 18 September 2026
+
 ## Folders
 
 - `01_literature_review`: reading notes
@@ -23,4 +25,3 @@ Files use clear names with a date and version when needed, for example `2026-09-
 Create a new branch before making changes. Use a clear commit message, then push the branch and open a pull request for review.
 
 Do not upload personal or confidential participant information to this repository.
-
