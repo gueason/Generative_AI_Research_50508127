@@ -2,15 +2,15 @@
 
 Student ID: 50508127
 
-This repository is for a class activity about organising research files with GitHub.
+This repository is for a class activity about organising the research files supplied in the `AI_Research` sample repository.
 
 Last reviewed: 18 September 2026
 
 ## Folders
 
-- `01_literature_review`: reading notes
-- `02_quantitative_analysis`: survey files, data and Python code
-- `03_qualitative_analysis`: interview files and notes
+- `01_literature_review`: reference papers and a book
+- `02_quantitative_analysis`: survey questions, datasets and Python code
+- `03_qualitative_analysis`: interview documents
 - `04_drafts_and_reports`: draft and final reports
 - `05_additional_materials`: other project materials
 - `06_project_management`: project notes and logbook
